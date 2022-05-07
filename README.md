@@ -1,6 +1,6 @@
 # Clone Twitter com React JS
 
-O projeto consiste no desenvolvimento do Twitter com a utilização da biblioteca/framework React JS. <br>
+O projeto consiste no desenvolvimento do Twitter com a utilização da biblioteca React JS. <br>
 
 ## Acessar
 
